@@ -1,5 +1,6 @@
 require 'pry'
 
+#this is an under-the-hood example of how the #collection method works
 def hello(array)
   i = 0
   collection = []
